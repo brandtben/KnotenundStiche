@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0" >
+        <source path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res" >
+            <file
+                name="achter_gelegt1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gelegt3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gelegt4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gelegt5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gelegt6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gelegt7"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gelegt7.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen10"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen10.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen11"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen11.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen7"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen7.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen8"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen8.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="achter_gestochen9"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\achter_gestochen9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelschlinge_gestochen1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelschlinge_gestochen1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelschlinge_gestochen2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelschlinge_gestochen2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelschlinge_gestochen3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelschlinge_gestochen3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelschlinge_gestochen4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelschlinge_gestochen4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelsclinge_gelegt1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelsclinge_gelegt1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelsclinge_gelegt2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelsclinge_gelegt2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="doppelsclinge_gelegt3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\doppelsclinge_gelegt3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="halbschlag"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\halbschlag.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="kreuz6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\kreuz6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gelegt1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gelegt1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gelegt2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gelegt2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gelegt3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gelegt3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gelegt4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gelegt4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gelegt5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gelegt5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gestochen1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gestochen1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gestochen2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gestochen2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gestochen3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gestochen3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mast_gestochen4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\mast_gestochen4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung10"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung10.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung7"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung7.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung8"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung8.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettung9"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettung9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="rettungsknoten"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\rettungsknoten.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gelegt1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gelegt1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gelegt2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gelegt2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gelegt3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gelegt3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gelegt4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gelegt4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gelegt5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gelegt5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen7"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen7.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen8"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen8.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sackstich_gestochen9"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\sackstich_gestochen9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="schoten6"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\schoten6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zimmermannsschlag1"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\zimmermannsschlag1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zimmermannsschlag2"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\zimmermannsschlag2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zimmermannsschlag3"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\zimmermannsschlag3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zimmermannsschlag4"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\zimmermannsschlag4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="zimmermannsschlag5"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-hdpi\zimmermannsschlag5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xxhdpi\drawer_shadow.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xxhdpi\ic_drawer.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_achterknoten"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_achterknoten.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_achterknotens"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_achterknotens.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_doppelschlinge"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_doppelschlinge.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_doppelschlinges"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_doppelschlinges.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_halbschlag"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_halbschlag.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_home"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_kreuzknoten"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_kreuzknoten.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_mastwurf"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_mastwurf.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_mastwurfs"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_mastwurfs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_navigation_drawer"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_navigation_drawer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_rettungsknoten"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_rettungsknoten.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_sackstich"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_sackstich.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_sackstichs"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_sackstichs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_schotenstich"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_schotenstich.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_zimmermannsschlag"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\layout\fragment_zimmermannsschlag.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="global"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\menu\global.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="navigation_drawer_width" >240dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="achter_gestochen10" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="achter_gestochen11" >Den Knoten Festziehen. (Fertig!)
+                </string>
+                <string name="doppelschlinge" >Doppelschlinge
+                </string>
+                <string name="sackstich" >Sackstich
+                </string>
+                <string name="mastwurf_gestochen1" >Das Seil über die Stange legen.
+                </string>
+                <string name="mastwurf_gestochen2" >Das kurze Ende von Vorne über die Stange legen.
+                </string>
+                <string name="zimmermann1" >Das Seil über die Stange legen.
+                </string>
+                <string name="mastwurf_gestochen3" >Das kurze Ende in der Mitte nach vorne ziehen.
+                </string>
+                <string name="zimmermann3" >Die Schlaufe muss so aussehen.
+                </string>
+                <string name="zimmermann2" >Mit dem kurzen Ende eine Schlaufe  um das lange Ende legen.
+                </string>
+                <string name="zurueck" >Zurück
+                </string>
+                <string name="zimmermann5" >Am kurzen Ende anziehen. (Fertig!)
+                </string>
+                <string name="zimmermann4" >Das kurze Ende mindestens noch 3 mal um das kurze Ende wickeln.
+                </string>
+                <string name="kreuzknoten" >Kreuzknoten
+                </string>
+                <string name="action_donate" >Spenden
+                </string>
+                <string name="mastwurf_gestochen4" >Festziehen. (Fertig!)
+                </string>
+                <string name="title_section11" >Achterknoten gelegt
+                </string>
+                <string name="title_section12" >Achterknoten gestochen
+                </string>
+                <string name="title_section13" >Rettungsknoten
+                </string>
+                <string name="doppel_gestochen3" >Das kurze Ende in der Mitte über das Seil führen.
+                </string>
+                <string name="doppel_gestochen4" >Festziehen. (Fertig!)
+                </string>
+                <string name="rettungsknoten9" >Mit dem kurzen Ende eine Bucht bilden.
+                </string>
+                <string name="doppel_gestochen1" >Das Seil über die Stange legen.
+                </string>
+                <string name="rettungsknoten8" >Hiermit ist der Pfahlstich fertig. Nun wird der Knoten noch gesichert.
+                </string>
+                <string name="Info" >Info
+                </string>
+                <string name="doppel_gestochen2" >Das Seil von hinten über die Stange legen.
+                </string>
+                <string name="rettungsknoten7" >Festziehen. 
+                </string>
+                <string name="achter_gelegt1" >Das Seil gerade hinlegen.
+                </string>
+                <string name="rettungsknoten6" >Das Kurze Ende von oben wieder durch die Schlaufe ziehen.
+                </string>
+                <string name="rettungsknoten5" >Mit dem kurzen Ende auf der Körperseite am langen vorbei.
+                </string>
+                <string name="rettungsknoten4" >Das kurze Ende von unten durch die Schlaufe führen.
+                </string>
+                <string name="rettungsknoten3" >Mit dem langen Ende eine Schlaufe formen (Achtung: die Schlaufe muss genau wie auf dem Bild sein).
+                </string>
+                <string name="rettungsknoten2" >Die beiden Seilenden unter den Achseln nach hinten führen und hinten doppelt kreuzen, sodass sie auf der gleichen Seite wieder nach vorne kommen.
+                </string>
+                <string name="rettungsknoten1" >Das Seil über die Schulter legen, sodass das kurze Ende am Boden liegt.
+                </string>
+                <string name="achter_gelegt6" >Festziehen. (Fertig!)
+                </string>
+                <string name="achter_gelegt5" >Schlaufe unter der entstandenen kleinen Schlaufe durchs Auge durchziehen.
+                </string>
+                <string name="achter_gelegt4" >Schlaufe über das lange Ende legen.
+                </string>
+                <string name="achter_gelegt3" >Die Schlaufe unter dem langen Ende durchführen.
+                </string>
+                <string name="achter_gelegt2" >Das Seil zu einer Schlaufe legen.
+                </string>
+                <string name="sackstich_gestochen5" >Das kurze Ende zurückführen.
+                </string>
+                <string name="sackstich_gestochen4" >Am kurzen Ende festziehen (sodass das kurze Ende mindestens 1m lang ist)
+                </string>
+                <string name="sackstich_gestochen7" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="sackstich_gestochen6" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="sackstich_gestochen1" >Das Seil gerade hinlegen.
+                </string>
+                <string name="sackstich_gestochen3" >Mit dem kurzen Ende von unten in die Schlaufe hinein
+                </string>
+                <string name="app_name" >Knoten und Stiche
+                </string>
+                <string name="sackstich_gestochen2" >Mit dem kurzen Ende über das lange Ende gehen, sodass eine Schlaufe entsteht. 
+                </string>
+                <string name="title_section9" >Sackstich gelegt
+                </string>
+                <string name="sackstich_gelegt5" >Festziehen. (Fertig!)
+                </string>
+                <string name="title_section8" >Schotenstich
+                </string>
+                <string name="sackstich_gelegt4" >Die Schleife von oben durch das Auge ziehen.
+                </string>
+                <string name="sackstich_gelegt3" >Die Schleife unter das kommende Seil legen.
+                </string>
+                <string name="sackstich_gelegt2" >Eine Schleife legen.
+                </string>
+                <string name="title_section5" >Mastwurf gestochen
+                </string>
+                <string name="sackstich_gelegt1" >Das Seil gerade hinlegen.
+                </string>
+                <string name="title_section4" >Mastwurf gelegt
+                </string>
+                <string name="title_section7" >Zimmermannsschlag
+                </string>
+                <string name="title_section6" >Kreuzknoten
+                </string>
+                <string name="title_section1" >Halbschlag
+                </string>
+                <string name="title_section3" >Doppelschlinge gestochen
+                </string>
+                <string name="achter_gestochen8" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="title_section2" >Doppelschlinge gelegt
+                </string>
+                <string name="title_section10" >Sackstich gestochen
+                </string>
+                <string name="achter_gestochen9" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="achter_gestochen6" >Das kurze Ende zurückführen.
+                </string>
+                <string name="achter_gestochen7" >Dem vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="achter_gestochen4" >Unter der Schleife durch.
+                </string>
+                <string name="achter_gestochen5" >Am kurzen Ende festziehen (sodass das kurze Ende mindestens 1m lang ist)
+                </string>
+                <string name="rettungsknoten" >Rettungsknoten
+                </string>
+                <string name="achter_gestochen2" >Mit dem kurzen Ende unter dem langen Ende durch, sodass sich eine Schleife bildet.
+                </string>
+                <string name="achter_gestochen3" >Mit dem kurzen Ende über das lange.
+                </string>
+                <string name="achter_gestochen1" >Das Seil gerade hinlegen.
+                </string>
+                <string name="doppel_gelegt3" >An den mittleren beiden Strängen nehmen. (Fertig!)
+                </string>
+                <string name="sackstich_gestochen9" >Den Knoten Festziehen. (Fertig!)
+                </string>
+                <string name="sackstich_gestochen8" >Den vorherigen Seilverlauf zurückfolgen.
+                </string>
+                <string name="rettungsknoten10" >Mit dem kurzen Ende um das am Bauch anliegende Seil herum und durch die Schlaufe ziehen. Fertig!
+                </string>
+                <string name="schotenstich" >Schotenstich
+                </string>
+                <string name="doppel_gelegt1" >Das Seil zu einer Schlaufe legen.
+                </string>
+                <string name="doppel_gelegt2" >Die Schlaufe zurück auf das Seil legen.
+                </string>
+                <string name="zimmermannsschlag" >Zimmermannsschlag
+                </string>
+                <string name="action_example" >Example action
+                </string>
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="navigation_drawer_close" >Close navigation drawer
+                </string>
+                <string name="fertig" >Fertig
+                </string>
+                <string name="halbschlag" >Halbschlag
+                </string>
+                <string name="mastwurf_gelegt2" >Am langen Ende eine Schlaufe legen.
+                </string>
+                <string name="mastwurf_gelegt3" >Am kurzen Ende des Seils eine Schlaufe in die entgegengesetzte Richtung legen.
+                </string>
+                <string name="mastwurf_gelegt4" >Die beiden Schlaufen ohne Drehung übereinanderlegen.
+                </string>
+                <string name="mastwurf_gelegt5" >Fertig!
+                </string>
+                <string name="weiter" >Weiter
+                </string>
+                <string name="mastwurf" >Mastwurf
+                </string>
+                <string name="navigation_drawer_open" >Open navigation drawer
+                </string>
+                <string name="kreuz1" >Die beiden Seile gegenüber legen.
+                </string>
+                <string name="kreuz2" >Das weiße Seil zu einer Schlaufe legen. Das rote Seil von unten durch die Schleife führen.
+                </string>
+                <string name="kreuz3" >Das rote Seil unter dem weißem Seil durchführen.
+                </string>
+                <string name="kreuz4" >Das rote Seil in die Schleife legen.
+                </string>
+                <string name="kreuz5" >Das rote Seil unten wieder aus der Schleife herausführen.
+                </string>
+                <string name="kreuz6" >Festziehen (Fertig!)
+                </string>
+            </file>
+            <file
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar" >
+                    <item name="android:background">
+#259b24
+                    </item>
+                    <item name="android:textColor">
+#000000
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="@android:style/Theme.Holo.Light" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                    <item name="android:colorLongPressedHighlight">
+#42bd41
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\values-v21\styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Material.Light" >
+                    <item name="android:colorPrimary">
+#259b24
+                    </item>
+                    <item name="android:colorAccent">
+#000000
+                    </item>
+                    <item name="android:statusBarColor">
+#0a7e07
+                    </item>
+                    <item name="android:colorControlActivated">
+#42bd41
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Benjamin\AndroidStudioProjects\KnotenundStiche\app\src\debug\res" />
+    </dataSet>
+
+</merger>

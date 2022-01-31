@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\brand\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Working copy\KuS\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_b2ef76da7c3e2eaba44b640c3471bc7503f4dec7.jar" />
+    </item>
+    <item
+        jar="C:\Working copy\KuS\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Working copy\KuS\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_867bc83c9b71fb14822c67a5b4ac562198bf3cbd.jar" />
+    </item>
+    <item
+        jar="C:\Working copy\KuS\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Working copy\KuS\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_e1add114c04fb2bf23dc0de1c840380a1e4b89f8.jar" />
+    </item>
+
+</items>

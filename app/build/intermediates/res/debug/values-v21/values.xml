@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Benjamin/AndroidStudioProjects/KnotenundStiche/app/src/main/res/values-v21/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">#259b24</item>
+        <item name="android:colorAccent">#000000</item>
+        <item name="android:statusBarColor">#0a7e07</item>
+        <item name="android:colorControlActivated">#42bd41</item>
+    </style>
+
+</resources>

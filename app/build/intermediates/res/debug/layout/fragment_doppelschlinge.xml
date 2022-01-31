@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.braben.knoten.und.stiche.Doppelschlingeg">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/doppelgimg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/doppelsclinge_gelegt1" />
+
+        <TextView
+            android:id="@+id/doppelgtxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/doppel_gelegt1"
+            android:ellipsize="none"
+            android:scrollHorizontally="false"
+            android:maxLines="99" />
+
+        <Button
+            android:id="@+id/dopelgw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginTop="40dp"
+            android:text="@string/weiter"/>
+
+        <Button
+            android:id="@+id/doppelgz"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginTop="10dp"
+            android:text="@string/zurueck" />
+
+    </LinearLayout>
+</FrameLayout>
+<!-- From: file:/C:/Users/Benjamin/AndroidStudioProjects/KnotenundStiche/app/src/main/res/layout/fragment_doppelschlinge.xml -->
