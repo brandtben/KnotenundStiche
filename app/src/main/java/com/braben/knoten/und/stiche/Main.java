@@ -7,7 +7,9 @@ import android.app.FragmentManager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.support.v4.widget.DrawerLayout;
+
+import androidx.drawerlayout.widget.DrawerLayout;
+//import android.support.v4.widget.DrawerLayout;
 
 
 public class Main extends Activity
