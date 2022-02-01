@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 21
+    compileSdkVersion 32
     buildToolsVersion "20.0.0"
 
     defaultConfig {
         applicationId "com.braben.knoten.und.stiche"
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
     }
@@ -20,6 +20,8 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:support-v4:21.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    def lifecycle_version = "2.2.0"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
 }

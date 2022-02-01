@@ -26,13 +26,11 @@ public class Mastwurfs extends Fragment implements Button.OnClickListener {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_SECTION_NUMBER = "section_number";
-    private Button wButton;
-    private Button zButton;
 
     int index = 1;
 
-    int[] imgsrc = {R.drawable.achter_gelegt1,R.drawable.achter_gelegt3,R.drawable.achter_gelegt4,R.drawable.achter_gelegt5,R.drawable.achter_gelegt6,R.drawable.achter_gelegt7,R.drawable.achter_gelegt7};
-    int[] texsrc = {R.string.achter_gelegt1,R.string.achter_gelegt2,R.string.achter_gelegt3,R.string.achter_gelegt4,R.string.achter_gelegt5,R.string.achter_gelegt6,R.string.achter_gelegt6};
+    int[] imgsrc = {R.drawable.mast_gestochen1,R.drawable.mast_gestochen2,R.drawable.mast_gestochen3,R.drawable.mast_gestochen4};
+    int[] texsrc = {R.string.mastwurf_gestochen1,R.string.mastwurf_gestochen2,R.string.mastwurf_gestochen3,R.string.mastwurf_gestochen4};
 
 
     public static Mastwurfs newInstance(int section_number) {
@@ -42,16 +40,13 @@ public class Mastwurfs extends Fragment implements Button.OnClickListener {
         fragment.setArguments(args);
         return fragment;
     }
-    public Mastwurfs() {
-        // Required empty public constructor
-    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_achterknoten, container, false);
-        wButton = (Button) rootView.findViewById(R.id.achtergw);
+        Button wButton = (Button) rootView.findViewById(R.id.achtergw);
         wButton.setOnClickListener(this);
-        zButton = (Button) rootView.findViewById(R.id.achtergz);
+        Button zButton = (Button) rootView.findViewById(R.id.achtergz);
         zButton.setOnClickListener(this);
         zButton.setVisibility(View.INVISIBLE);
         return rootView;
